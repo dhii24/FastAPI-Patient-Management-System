@@ -30,7 +30,7 @@ A beginner-friendly backend API project built using FastAPI.
 Clone the repository:
 
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/dhii24/fastapi-patient-management-system.git
 ```
 
 Move into project folder:
@@ -90,10 +90,10 @@ http://127.0.0.1:8000/redoc
 ```json
 {
   "name": "Dhiraj",
-  "age": 22,
-  "height": 175,
-  "weight": 70,
-  "bmi": 22.9
+  "age": 23,
+  "height": 183,
+  "weight": 74,
+  "bmi": 22.1
 }
 ```
 
