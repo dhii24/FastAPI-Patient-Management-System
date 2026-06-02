@@ -48,12 +48,5 @@
         "weight": 75,
         "bmi": 31.22,
         "verdict": "Obese"
-    },
-    "P007": {
-        "name": "Dhiraj",
-        "age": 22,
-        "height": 175,
-        "weight": 70,
-        "bmi": 22.9
     }
 }
